@@ -1,0 +1,13 @@
+#main-navbar {
+	background-color: blue;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+#main-navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+}
