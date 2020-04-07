@@ -33,3 +33,28 @@
 	position: relative;
 	display: block;
 }
+
+#sidebar {
+	position: fixed;
+	right: 0%;
+	background-color: red;
+	height: 100%;
+	width: 20%;
+}
+
+#sidebar-container ul {
+	list-style-type: none;
+	text-align: center;
+	padding: 0;
+}
+
+#sidebar-container ul li a {
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	padding: 15px 0;
+}
+
+#sidebar ul li a:hover {
+	background-color: #000;
+}
